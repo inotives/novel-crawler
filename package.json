@@ -15,6 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "crawler": "^1.0.5",
-    "html-to-text": "^3.3.0"
+    "html-to-text": "^3.3.0",
+    "mkdirp": "^0.5.1"
   }
 }
