@@ -46,4 +46,5 @@ console.log(downloadList)
 
 c.queue(downloadList);
 
-//command:: node crawl-start.js http://www.wuxiaworld.com/wmw-index/wmw-chapter 1-100
+// command:: node crawl-start.js http://www.wuxiaworld.com/wmw-index/wmw-chapter 1-100
+// http://www.novelupdates.com/series/ze-tian-ji/ -- http://gravitytales.com/Novel/way-of-choices/ztj-chapter-0
